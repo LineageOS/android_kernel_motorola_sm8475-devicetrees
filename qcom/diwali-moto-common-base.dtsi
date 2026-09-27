@@ -40,8 +40,6 @@
 	};
 };
 
-/delete-node/ &mem_offline;
-
 &gcc {
 	clocks = <&rpmhcc RPMH_CXO_CLK>, <&sleep_clk>,
 		<&pcie_0_pipe_clk>, <&ufs_phy_rx_symbol_0_clk>,

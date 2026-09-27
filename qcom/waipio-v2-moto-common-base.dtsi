@@ -39,6 +39,3 @@
 		/delete-node/ fstab;
 	};
 };
-
-/delete-node/ &mem_offline;
-
